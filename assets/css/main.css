@@ -1627,3 +1627,11 @@ section,
 .starter-section {
   /* Add your styles here */
 }
+
+ /* ===== Ajuste padrão das imagens do Portfolio ===== */
+
+.portfolio-item img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+}
